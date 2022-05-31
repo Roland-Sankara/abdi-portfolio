@@ -16,20 +16,29 @@ function Projects(){
                     image="project-one.png" 
                     description="This is a project which im still working with. Bascially i got inspiration from a online Food resturant website, that offers healthy food. I`m not yet done with the whole project yet, but it will include different types of healthy food wuth images and prices.Im really excited about this project, because i want more people to start eating clean and healthy food."
                     link="https://ghk-test.herokuapp.com/"
+                    code="https://ghk-test.herokuapp.com/"
+                    background="Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor"
+                    improvements="Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor"
                 />
 
                 <Project 
                     name="Gjovik By" 
                     image="project-two.png" 
                     description="This is a project which im still working with. Bascially i got inspiration from a online Food resturant website, that offers healthy food. I`m not yet done with the whole project yet, but it will include different types of healthy food wuth images and prices.Im really excited about this project, because i want more people to start eating clean and healthy food."
-                  link="https://www.figma.com/file/u05oXdjJOqMUt9UPghgLPT/Untitled?node-id=356%3A2657"
+                    link="https://www.figma.com/file/u05oXdjJOqMUt9UPghgLPT/Untitled?node-id=356%3A2657"
+                    code=""
+                    background="Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor"
+                    improvements="Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor"
                 />
 
                 <Project 
                     name="Personal Portfolio" 
                     image="project-three.png" 
                     description="This is a project which im still working with. Bascially i got inspiration from a online Food resturant website, that offers healthy food. I`m not yet done with the whole project yet, but it will include different types of healthy food wuth images and prices.Im really excited about this project, because i want more people to start eating clean and healthy food."
-                  link="http://abdu-amaan-portfolio.netlify.app"
+                    link="http://abdu-amaan-portfolio.netlify.app"
+                    code="https://github.com/Roland-Sankara/abdi-portfolio"
+                    background="Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor"
+                    improvements="Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor"
                 />
 
             </div>

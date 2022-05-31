@@ -235,7 +235,7 @@ span{
 	border-radius: .5rem;
 	border: 1px solid var(--text-color);
 	transition: ease .3s;
-  heigth: 2rem;
+  	/* height: 2rem; */
 }
 
 .project-tile:hover{
@@ -317,6 +317,50 @@ span{
 	color: var(--main-color-two);
 }
 
+.projectd-info{
+	width: 50%;
+	margin: auto;
+	margin-bottom: 3rem;
+}
+
+.projectd-img{
+	height: 5rem;
+	background-color: #006E7F;
+	margin: 0 0 3rem 0;
+}
+
+.projectd-info h1,p{
+	margin: 1rem 0;
+}
+
+.projectd-info p{
+	color: var(--second-color);
+}
+
+.external-links{
+	display: flex;
+	border-top: 2px solid var(--main-color-two);
+	border-bottom: 2px solid var(--main-color-two);
+	justify-content: center;
+	gap: 2rem;
+	padding: 1rem;
+	margin: auto;
+	margin: 2rem auto;
+	width: 50%;
+}
+
+.external-links p{
+	border: 2px solid teal;
+	border-radius: .5rem;
+	padding: 1rem;
+	color:#393647;
+	font-weight: 500;
+}
+
+.external-links p:hover{
+	transform: scale(1.1);
+}
+
 
 @media (max-width: 425px){
 	header{
@@ -325,6 +369,7 @@ span{
 
 	nav{
 		display: none;
+		transition: ease .4s;
 	}
 
 	.navlist{
@@ -333,6 +378,7 @@ span{
 		justify-content: center;
 		width:15rem;
 		gap:1rem;
+		transition: ease .4s;
 	}
 
 	.navlist li{
@@ -401,6 +447,11 @@ span{
 	#footer-section{
 		margin-top: 3rem;
 		width: 80%;
+	}
+
+	.projectd-info{
+		width: 80%;
+		margin: auto;
 	}
 }
 
