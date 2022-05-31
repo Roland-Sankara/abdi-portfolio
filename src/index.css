@@ -332,7 +332,11 @@ span{
 		align-items: center;
 		justify-content: center;
 		width:15rem;
-		gap:2rem;
+		gap:1rem;
+	}
+
+	.navlist li{
+		margin: 2rem 0;
 	}
 
 	.home{
@@ -342,10 +346,18 @@ span{
 		height: auto;
 	}
 
+	.home-img{
+		margin: 1rem 0;
+	}
+
 	.about{
 		flex-direction: column-reverse;
 		font-size: 2rem;
 		margin-bottom: 8rem;
+	}
+
+	.about-img{
+		margin: 1rem 0;
 	}
 
 	section{
@@ -369,6 +381,7 @@ span{
 
 	.project-tile{
 		box-shadow: none;
+		margin: 1rem 0;
 	}
 
 	.about-text h3{
