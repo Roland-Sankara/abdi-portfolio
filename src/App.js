@@ -7,6 +7,7 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import ProjectDetail from './components/ProjectDetail';
 import {BrowserRouter, Route, Routes} from 'react-router-dom';
+import { ScrollToTop } from 'react-router-scroll-to-top';
 import {ContextProvider} from './context/AppContext';
 
 function App(){
@@ -14,6 +15,7 @@ function App(){
     <>
       <ContextProvider>
         <BrowserRouter>
+          <ScrollToTop/>
           <Header/>
           <Routes>
             <Route path='/' element={
