@@ -11,7 +11,7 @@ function Header(){
 
             <div id="menu-icon" onClick={()=>{setMobile((mobile)=>mobile?false:true)}}> 
                 {
-                    mobile ? <i className="fa-solid fa-bars"></i> : <i className="fa-solid fa-x"></i>
+                    !mobile ? <i className="fa-solid fa-bars"></i> : <i className="fa-solid fa-x"></i>
                 }
             </div>
 
