@@ -13,21 +13,23 @@ function Projects(){
             <div id="projects">
                 <Project 
                     name="GHK-Project" 
-                    image="jovik.png" 
-                    description="but it will include different types of healthy food wuth images and prices.Im really excited about this project, because i want more people to start eating clean and healthy food."
+                    image="project-one.png" 
+                    description="This is a project which im still working with. Bascially i got inspiration from a online Food resturant website, that offers healthy food. I`m not yet done with the whole project yet, but it will include different types of healthy food wuth images and prices.Im really excited about this project, because i want more people to start eating clean and healthy food."
                     link="https://ghk-test.herokuapp.com/"
                 />
 
                 <Project 
-                    name="Healthy Food" 
-                    image="food.png" 
+                    name="Gjovik By" 
+                    image="project-two.png" 
                     description="This is a project which im still working with. Bascially i got inspiration from a online Food resturant website, that offers healthy food. I`m not yet done with the whole project yet, but it will include different types of healthy food wuth images and prices.Im really excited about this project, because i want more people to start eating clean and healthy food."
+                  link="https://www.figma.com/file/u05oXdjJOqMUt9UPghgLPT/Untitled?node-id=356%3A2657"
                 />
 
                 <Project 
-                    name="Healthy Food" 
-                    image="food.png" 
+                    name="Personal Portfolio" 
+                    image="project-three.png" 
                     description="This is a project which im still working with. Bascially i got inspiration from a online Food resturant website, that offers healthy food. I`m not yet done with the whole project yet, but it will include different types of healthy food wuth images and prices.Im really excited about this project, because i want more people to start eating clean and healthy food."
+                  link="http://abdu-amaan-portfolio.netlify.app"
                 />
 
             </div>
