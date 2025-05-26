@@ -6,14 +6,14 @@ function Contact(){
             <div>
                 <div id="contact-section" className="top-margin">
                     <h2 className="top-padding">Get In Touch</h2>
-                    <p>Am open to new opportunities for growth in technology, my inbox is always open, whether you have a question, an opportunity or just saying hello. I'll be very glad to reach out.</p>
+                    <p>Whether you’re hiring, seeking collaboration, or just want to say hello, I’m always open to connecting with like-minded creatives and tech enthusiasts. Let's build something great together!</p>
                     <div className="social" id="contact-icons">
-                        <a href="https://github.com/Abdi101" target="_blank"><i className="fab fa-github"></i></a>
-                        <a href="https://www.instagram.com/abdirahman.amaan" target="_blank"><i className="fab fa-linkedin-in"></i></a>
-                        <a href="https://www.linkedin.com/Abdi101" target="_blank"><i className="fa-brands fa-instagram"></i></a>
-                        <a href="tel:+47-94734001" title="tel:+47-94734001"><i className="fab fa-whatsapp"></i></a>
+                        <a href="https://github.com/musakamara" target="_blank"><i className="fab fa-github"></i></a>
+                        <a href="https://instagram.com/musacreates" target="_blank"><i className="fab fa-linkedin-in"></i></a>
+                        <a href="https://linkedin.com/in/musakamara" target="_blank"><i className="fa-brands fa-instagram"></i></a>
+                        <a href="tel:+256-912734001" title="tel:+256-912734001"><i className="fab fa-whatsapp"></i></a>
                     </div>
-                    <p className="btn"><a href="mailto:amaandhere@gmail.com" target="_blank">Say Hello</a></p>
+                    <p className="btn"><a href="mailto:hello@musakamara.dev" target="_blank">Say Hello</a></p>
                 </div>
             </div>
         </section>

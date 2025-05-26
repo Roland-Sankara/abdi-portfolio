@@ -12,20 +12,20 @@ function Projects(){
 
             <div id="projects">
                 <Project 
-                    name="GHK-Project" 
-                    image="project-one.png" 
-                    description="This is a project which im still working with. Bascially i got inspiration from a online Food resturant website, that offers healthy food. I`m not yet done with the whole project yet, but it will include different types of healthy food wuth images and prices.Im really excited about this project, because i want more people to start eating clean and healthy food."
-                    link="https://ghk-test.herokuapp.com/"
-                    code="https://ghk-test.herokuapp.com/"
+                    name="EduBridge Platform" 
+                    image="https://pbs.twimg.com/profile_images/791704813515993088/i-ePSlf9_400x400.jpg" 
+                    description="A responsive web app built for educational institutions to manage online classes, assignments, and student progress. Developed using React.js, Firebase, and Tailwind CSS."
+                    link="https://www.edubridgeindia.com/"
+                    code="#"
                     background="Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor"
                     improvements="Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor"
                 />
 
                 <Project 
-                    name="Gjovik By" 
-                    image="project-two.png" 
-                    description="This is a project which im still working with. Bascially i got inspiration from a online Food resturant website, that offers healthy food. I`m not yet done with the whole project yet, but it will include different types of healthy food wuth images and prices.Im really excited about this project, because i want more people to start eating clean and healthy food."
-                    link="https://www.figma.com/file/u05oXdjJOqMUt9UPghgLPT/Untitled?node-id=356%3A2657"
+                    name="Ghana Eats" 
+                    image="https://cdn.modernghana.com/content__/640/457/59202413457-i41p266gfa-img3772.jpeg" 
+                    description="A food discovery and delivery web app showcasing local dishes from across Ghana. Built using Next.js and a MongoDB backend. Designed for both web and mobile with responsive layout and seamless UX."
+                    link="https://globeaware.org/news/globe-aware-news/1792-12-traditional-dishes-of-ghana"
                     code=""
                     background="Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor"
                     improvements="Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor"
@@ -34,9 +34,9 @@ function Projects(){
                 <Project 
                     name="Personal Portfolio" 
                     image="project-three.png" 
-                    description="This is a project which im still working with. Bascially i got inspiration from a online Food resturant website, that offers healthy food. I`m not yet done with the whole project yet, but it will include different types of healthy food wuth images and prices.Im really excited about this project, because i want more people to start eating clean and healthy food."
-                    link="http://abdu-amaan-portfolio.netlify.app"
-                    code="https://github.com/Roland-Sankara/abdi-portfolio"
+                    description="This personal website reflects my journey in tech and showcases my skills and past projects. It’s designed using pure HTML, SCSS, and vanilla JavaScript, with animations powered by GSAP"
+                    link="#"
+                    code="https://github.com/musakamara/portfolio"
                     background="Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor"
                     improvements="Lorem ipsum dolor, Lorem ipsum dolor, Lorem ipsum dolor"
                 />

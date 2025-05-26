@@ -7,7 +7,7 @@ function Header(){
     return (
         <header>
             <Link to="/" className="logo">
-                <h1>A|A</h1>
+                <h1>M|K</h1>
             </Link>
 
             <div id="menu-icon" onClick={()=>{setMobile((mobile)=>mobile?false:true)}}> 
